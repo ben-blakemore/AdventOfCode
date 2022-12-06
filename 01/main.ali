@@ -1,0 +1,17 @@
+V "GNAT Lib v2016"
+M P W=b
+P ZX
+
+RN
+
+U main%b		main.adb		4ae7fb10 NE OO SU
+W solution%s		solution.adb		solution.ali
+
+D main.adb		20221201151056 f877ace0 main%b
+D solution.ads		20221201103306 b29057f0 solution%s
+D system.ads		20160516092930 2da59038 system%s
+X 1 main.adb
+3U11*Main 3b11 7l5 7t9
+X 2 solution.ads
+1U11*solution 1|1w6 6s5
+
